@@ -29,7 +29,7 @@
 
 **Status**
 
-[![Modheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Modheus&layout=compact&langs_count=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Modheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Modheus&layout=compact&bg_color=#010409&border_color=#ebeef2&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
