@@ -27,6 +27,8 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+[![Modheus](https://github-readme-stats.vercel.app/api/top-langs/?username=Modheus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Matheus_Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-80a5782b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/matheus-henrique-80a5782b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
