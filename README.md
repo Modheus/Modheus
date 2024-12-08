@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e em busca de autoaprimoramento.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Rondônia.
-- 🌱 Aprendendo mais sobre desenvolvimento Web com React.
+- Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Rondônia.
+- Foco em Front-End, com um leve interesse em Data Science e Back-End.
+- Aprendendo mais sobre desenvolvimento Web com React.
 
 ## Minhas Skills
 
