@@ -37,5 +37,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-80a5782b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/matheus-henrique-80a5782b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin](https://img.shields.io/badge/-Matheus_Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-80a5782b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/matheus-henrique-80a5782b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-matheushenriquesl06@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheushenriquesl06@gmail.com)](mailto:matheushenriquesl06@gmail.com)
