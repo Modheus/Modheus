@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e em busca de autoaprimoramento.
@@ -28,12 +26,6 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/Modheus" title="Perfil de Matheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Modheus&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
